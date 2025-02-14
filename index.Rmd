@@ -1,0 +1,31 @@
+---
+title: "Brian McGreal"
+image: "brian.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/themacfreezie"
+  - label: Email
+    url: "mailto:bmcgreal@uw.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Brian’s academic interests focus on management of common pool resources. He graduated from the University of Arizona in December 2021 with a MS in Applied Econometrics and Policy Analysis from the Department of Agricultural and Resource Economics. He was the primary author of the University of Arizona Water Resources Research Center’s 2021 Arroyo, Groundwater Management – Past, Present and Future and 2022 Arroyo, Water Resilience – Indigenous Perspectives. Brian is currently pursuing a PhD in Quantitative Ecology and Resource Management, where he’s receiving intensive training in the application of statistical, mathematical, and decision sciences to terrestrial and aquatic ecology, natural resource management, biometrics, and mathematical biology. Brian’s current research focuses on salmonid population dynamics, habitat characteristics, and survey methodology in SE Alaska and Oregon.
+
+## Education
+
+**Massachusetts Institute of Technology** | Cambridge, MA
+
+Ph.D. in Computer Science | September 2009 - May 2014
+
+**The University of California, Berkeley** | Berkeley, CA
+
+B.S. in Computer Science | September 2005 - May 2009
+
+## Experience
+
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Netflix** | Research Scientist | June 2014 - December 2017
